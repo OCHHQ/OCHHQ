@@ -7,9 +7,10 @@
 ---
 
 ### **🚀 About Me**
-- 🎓 **Graduating Student** of ALX Software Engineering Program  
+- 🎓 **Graduating Student** of ALX Software Engineering Program | MS in Information Management (In Progress)
 - 💻 Passionate about **Back-End Development, Security & Data Analytics**  
-- 📚 Learning **Flask, Django, SQL, and Cloud Technologies**  
+- 📚 Learning **Flask, Django, SQL, and Cloud Technologies**
+- 🔍 Exploring Cloud Computing (AWS, GCP) & System Design  
 - 🤝 Open to **collaborations** on innovative projects  
 - 📧 Reach me at **enosejecollins@gmail.com**  
 
