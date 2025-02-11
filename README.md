@@ -11,7 +11,7 @@
 - 💻 Passionate about **Back-End Development, Security & Data Analytics**  
 - 📚 Learning **Flask, Django, SQL, and Cloud Technologies**  
 - 🤝 Open to **collaborations** on innovative projects  
-- 📧 Reach me at **[your email]**  
+- 📧 Reach me at **enosejecollins@gmail.com**  
 
 ---
 
@@ -48,7 +48,7 @@
 
 ### **📫 Let's Connect!**
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/enoseje">
+  <a href="https://linkedin.com/in/enoseje">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/ochhq">
