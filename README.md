@@ -6,9 +6,9 @@
 ---
 
 ## **🚀 About Me**  
-- 🎓 **ALX Software Engineering Graduate** | **MS in Information Management (In Progress)**  
+- 🎓 **ALX Software Engineering Graduate** | **MS in Information Management (completed)**  
 - 💻 Passionate about **Back-End Development, Security & Data Analytics**  
-- 📚 Currently learning **Flask, Django, SQL, and Cloud Technologies**  
+- 📚 Building with **Flask, Django, SQL, and Cloud Technologies**  
 - ☁️ Exploring **Cloud Computing (AWS, GCP) & System Design**  
 - 🤝 Open to **collaborations** on innovative projects  
 - 📧 Reach me at **enosejecollins@gmail.com**  
